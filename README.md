@@ -1,4 +1,10 @@
-# ReduxSimpleStarter
+# React YouTube
+
+Forked from https://github.com/StephenGrider/ReduxSimpleStarter.
+
+Web client for searching and viewing YouTube videos written with React.
+
+## ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
@@ -7,9 +13,10 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 There are two methods for getting started with this repo.
 
 #### Familiar with Git?
+
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
+```shell
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 > cd ReduxSimpleStarter
 > npm install
@@ -17,9 +24,10 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 #### Not Familiar with Git?
+
 Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
-```
+```shell
 > npm install
 > npm start
 ```
