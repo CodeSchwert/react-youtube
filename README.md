@@ -1,6 +1,8 @@
 # React YouTube
 
-Forked from https://github.com/StephenGrider/ReduxSimpleStarter.
+Basic React app connected to the Youtube API.
+
+## Forked from https://github.com/StephenGrider/ReduxSimpleStarter.
 
 Web client for searching and viewing YouTube videos written with React.
 
